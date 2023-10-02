@@ -3,3 +3,15 @@
 git checkout - перемещение
 git branch - показать все ветки
 git checkout -b - создание и переход на следующую ветку.
+git checkout - перемещение
+git branch - показать все ветки
+git checkout -b - создание и переход на следующую ветку.
+git checkout - перемещение
+git branch - показать все ветки
+git checkout -b - создание и переход на следующую ветку.
+git checkout - перемещение
+git branch - показать все ветки
+git checkout -b - создание и переход на следующую ветку.
+git checkout - перемещение
+git branch - показать все ветки
+git checkout -b - создание и переход на следующую ветку.
