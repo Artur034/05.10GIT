@@ -2,3 +2,4 @@
 **git init - инициализация репозитория**
 git checkout - перемещение
 git branch - показать все ветки
+git merge - слияние
